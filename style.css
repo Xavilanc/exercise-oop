@@ -7,3 +7,22 @@ body {
     background-color: black;
     overflow: hidden;
 }
+
+.scorestart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkorange;
+    border-radius: 15px;
+}
+
+.score-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #FFFFFF;
+}
+
+span {
+    color: black;
+}
